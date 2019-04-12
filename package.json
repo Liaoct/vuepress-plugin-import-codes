@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-import-code",
+  "name": "vuepress-plugin-import-codes",
   "version": "1.0.0",
   "description": "Vuepress plugin for import code with markdown-it-container.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpringLIAO/vuepress-plugin-import-code.git"
+    "url": "git+https://github.com/SpringLIAO/vuepress-plugin-import-codes.git"
   },
   "keywords": [
     "vuepress",
@@ -19,7 +19,7 @@
   "author": "Spring Liao <389055604@qq.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SpringLIAO/vuepress-plugin-import-code/issues"
+    "url": "https://github.com/SpringLIAO/vuepress-plugin-import-codes/issues"
   },
-  "homepage": "https://github.com/SpringLIAO/vuepress-plugin-import-code#readme"
+  "homepage": "https://github.com/SpringLIAO/vuepress-plugin-import-codes#readme"
 }

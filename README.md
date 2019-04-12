@@ -1,23 +1,23 @@
-# vuepress-plugin-import-code
+# vuepress-plugin-import-codes
 
 > Vuepress plugin for import code with [markdown-it-container](https://github.com/markdown-it/markdown-it-container).
 
 ## Install
 
 ```
-yarn add vuepress-plugin-import-code -D
+yarn add vuepress-plugin-import-codes -D
 ```
 
 You need install [`vuepress 1.x`](https://vuepress.vuejs.org/) first.
 
 ## Usage
 
-Use `vuepress-plugin-import-code` in `config.js`.
+Use `vuepress-plugin-import-codes` in `config.js`.
 
 ```js
 module.exports = {
     plugins: [
-        'vuepress-plugin-import-code'
+        'vuepress-plugin-import-codes'
     ]
 }
 ```
